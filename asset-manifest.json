@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mala/static/css/main.b0d878e1.css",
+    "main.js": "/mala/static/js/main.2d234ad5.js",
+    "static/js/453.9d3c49c7.chunk.js": "/mala/static/js/453.9d3c49c7.chunk.js",
+    "index.html": "/mala/index.html",
+    "main.b0d878e1.css.map": "/mala/static/css/main.b0d878e1.css.map",
+    "main.2d234ad5.js.map": "/mala/static/js/main.2d234ad5.js.map",
+    "453.9d3c49c7.chunk.js.map": "/mala/static/js/453.9d3c49c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d878e1.css",
+    "static/js/main.2d234ad5.js"
+  ]
+}
